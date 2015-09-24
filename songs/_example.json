@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "title": "_example",
+    "alternative_title": "Przykład",
+    "author": "Arek",
+    "music": "Silence",
+    "performer": ["Znowu Ja"],
+    "tags": ["bla", "json", "przykład"]
+  },
+  "verse": [
+    {
+      "text": "",
+      "chord": ""
+    },
+    {
+      "text": "",
+      "chord": ""
+    }
+  ],
+  "refrain":
+  {
+    "text": "",
+    "chord": ""
+  }
+}

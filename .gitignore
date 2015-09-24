@@ -26,3 +26,8 @@ project.xcworkspace
 #
 node_modules/
 npm-debug.log
+
+# InlelliJ
+#
+.idea
+src.iml
